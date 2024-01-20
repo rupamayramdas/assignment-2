@@ -1,0 +1,1428 @@
+.landing-page-design {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page-design .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 6940px;
+    position: relative;
+  }
+  
+  /* .landing-page-design .group {
+    position: absolute;
+    width: 506px;
+    height: 43px;
+    top: 53px;
+    left: 807px;
+  } */
+  
+  /* .landing-page-design .navbar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 44px;
+    padding: 10px 0px;
+    position: relative;
+  } */
+  
+  .landing-page-design .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ff5400;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--dark-02);
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  
+  .landing-page-design .overlap-wrapper {
+    position: absolute;
+    width: 1170px;
+    height: 500px;
+    top: 146px;
+    left: 135px;
+    background-image: url(img/Group\ 13\ \(1\)\ \(1\).png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .overlap {
+    height: 500px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.8) 0%, rgba(19, 19, 24, 0) 100%);
+  }
+  
+  .landing-page-design .group-2 {
+    position: relative;
+    width: 800px;
+    height: 288px;
+    top: 106px;
+    left: 185px;
+  }
+  
+  .landing-page-design .group-3 {
+    position: absolute;
+    width: 680px;
+    height: 156px;
+    top: 0;
+    left: 62px;
+  }
+  
+  .landing-page-design .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 40px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .p {
+    width: 676px;
+    top: 104px;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .frame {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 16px;
+    top: 204px;
+    background-color: #ffffff4c;
+    border-radius: 8px;
+    position: absolute;
+    left: 0;
+  }
+  
+  .landing-page-design .div-2 {
+    position: relative;
+    width: 176px;
+    height: 52px;
+  }
+  
+  .landing-page-design .overlap-group {
+    position: relative;
+    width: 174px;
+    height: 52px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .text-wrapper-4 {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #13131880;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-group-wrapper {
+    position: relative;
+    width: 174px;
+    height: 52px;
+  }
+  
+  .landing-page-design .div-wrapper {
+    position: absolute;
+    width: 176px;
+    height: 52px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page-design .text-wrapper-5 {
+    position: absolute;
+    top: 16px;
+    left: 15px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #13131880;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 14px;
+    left: 135px;
+  }
+  
+  .landing-page-design .group-wrapper {
+    position: relative;
+    width: 174px;
+    height: 52px;
+    background-color: #ff5400;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-4 {
+    position: relative;
+    width: 107px;
+    height: 24px;
+    top: 14px;
+    left: 35px;
+  }
+  
+  .landing-page-design .text-wrapper-6 {
+    position: absolute;
+    top: 2px;
+    left: 32px;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .img-2 {
+    width: 24px;
+    height: 24px;
+    top: 0;
+    position: absolute;
+    left: 0;
+  }
+  
+  .landing-page-design .group-5 {
+    position: absolute;
+    width: 583px;
+    height: 466px;
+    top: 746px;
+    left: 135px;
+  }
+  
+  .landing-page-design .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .text-wrapper-8 {
+    width: 577px;
+    top: 74px;
+    color: #131318b2;
+    position: absolute;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-6 {
+    position: absolute;
+    width: 531px;
+    height: 188px;
+    top: 150px;
+    left: 0;
+  }
+  
+  .landing-page-design .text-wrapper-9 {
+    position: absolute;
+    width: 525px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #131318b2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .text-wrapper-10 {
+    position: absolute;
+    width: 525px;
+    top: 68px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #131318b2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .accumsan-eget-et {
+    position: absolute;
+    width: 525px;
+    top: 136px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #131318b2;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .amet-consectetur {
+    width: 530px;
+    top: 362px;
+    position: absolute;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .rectangle {
+    position: absolute;
+    width: 540px;
+    height: 550px;
+    top: 746px;
+    left: 765px;
+    object-fit: cover;
+  }
+  
+  .landing-page-design .group-7 {
+    position: absolute;
+    width: 174px;
+    height: 52px;
+    top: 1244px;
+    left: 135px;
+    background-color: #ff5400;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-8 {
+    position: relative;
+    width: 107px;
+    height: 25px;
+    top: 14px;
+    left: 35px;
+  }
+  
+  .landing-page-design .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-9 {
+    position: absolute;
+    width: 643px;
+    height: 126px;
+    top: 1396px;
+    left: 398px;
+  }
+  
+  .landing-page-design .group-10 {
+    position: relative;
+    width: 647px;
+    height: 126px;
+  }
+  
+  .landing-page-design .text-wrapper-12 {
+    position: absolute;
+    top: 0;
+    left: 82px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .text-wrapper-13 {
+    position: absolute;
+    width: 643px;
+    top: 74px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #131318b2;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-11 {
+    position: absolute;
+    width: 643px;
+    height: 126px;
+    top: 2604px;
+    left: 398px;
+  }
+  
+  .landing-page-design .text-wrapper-14 {
+    position: absolute;
+    top: 0;
+    left: 168px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-12 {
+    position: absolute;
+    width: 643px;
+    height: 126px;
+    top: 3470px;
+    left: 398px;
+  }
+  
+  .landing-page-design .deals-discounts {
+    position: absolute;
+    top: 0;
+    left: 146px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-2 {
+    position: absolute;
+    width: 573px;
+    height: 300px;
+    top: 1570px;
+    left: 135px;
+    background-image: url(./img/Rectangle\ 5.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-15 {
+    position: absolute;
+    top: 131px;
+    left: 226px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-3 {
+    position: absolute;
+    width: 673px;
+    height: 300px;
+    top: 2204px;
+    left: 632px;
+    background-image: url(./img/Rectangle\ 10.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-16 {
+    position: absolute;
+    top: 131px;
+    left: 260px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-4 {
+    position: absolute;
+    width: 573px;
+    height: 300px;
+    top: 1570px;
+    left: 732px;
+    background-image: url(./img/Rectangle\ 8.png);
+    background-size: 100% 100%;
+  }
+  
+  .landing-page-design .text-wrapper-17 {
+    position: absolute;
+    top: 131px;
+    left: 220px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-5 {
+    position: absolute;
+    width: 374px;
+    height: 286px;
+    top: 1894px;
+    left: 135px;
+    background-image: url(./img/Rectangle\ 6.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-18 {
+    position: absolute;
+    top: 124px;
+    left: 130px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-6 {
+    position: absolute;
+    width: 473px;
+    height: 300px;
+    top: 2204px;
+    left: 135px;
+    background-image: url(./img/Rectangle\ 11.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-19 {
+    top: 131px;
+    left: 155px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-7 {
+    position: absolute;
+    width: 274px;
+    height: 286px;
+    top: 1894px;
+    left: 1031px;
+    background-image: url(./img/Rectangle\ 9.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-20 {
+    position: absolute;
+    top: 124px;
+    left: 81px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .overlap-8 {
+    position: absolute;
+    width: 474px;
+    height: 286px;
+    top: 1894px;
+    left: 533px;
+    background-image: url(./img/Rectangle\ 7.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .text-wrapper-21 {
+    position: absolute;
+    top: 124px;
+    left: 137px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-13 {
+    position: absolute;
+    width: 573px;
+    height: 284px;
+    top: 2778px;
+    left: 135px;
+    background-color: #fbb5630d;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #fbb56333;
+  }
+  
+  .landing-page-design .group-14 {
+    position: relative;
+    width: 486px;
+    height: 220px;
+    top: 31px;
+    left: 31px;
+  }
+  
+  .landing-page-design .group-15 {
+    position: absolute;
+    width: 490px;
+    height: 124px;
+    top: 96px;
+    left: 0;
+  }
+  
+  .landing-page-design .text-wrapper-22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .amet-consectetur-2 {
+    position: absolute;
+    width: 486px;
+    top: 46px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .img-3 {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page-design .group-16 {
+    position: absolute;
+    width: 573px;
+    height: 284px;
+    top: 2778px;
+    left: 732px;
+    background-color: #29cef60d;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #29cef633;
+  }
+  
+  .landing-page-design .text-wrapper-23 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-17 {
+    position: absolute;
+    width: 573px;
+    height: 284px;
+    top: 3086px;
+    left: 433px;
+    background-color: #e944440d;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #e9444433;
+  }
+  
+  /* .landing-page-design .group-18 {
+    position: absolute;
+    width: 1170px;
+    height: 500px;
+    top: 3644px;
+    left: 135px;
+    background-image: url(./img/Group\ 40071\ \(2\).png);
+    background-size: cover;
+    background-position: 50% 50%;
+  } */
+  
+  /* .landing-page-design .group-19 {
+    position: relative;
+    width: 579px;
+    height: 389px;
+    top: 56px;
+    left: 535px;
+    background-color: #ffffffcc;
+    border-radius: 16px;
+    border: 2px solid;
+    border-color: #ffffff;
+    backdrop-filter: blur(5px) brightness(100%);
+    -webkit-backdrop-filter: blur(5px) brightness(100%); */
+  }
+  
+  .landing-page-design .group-20 {
+    position: relative;
+    width: 452px;
+    height: 289px;
+    top: 48px;
+    left: 48px;
+  }
+  
+  /* .landing-page-design .group-21 {
+    position: absolute;
+    width: 458px;
+    height: 241px;
+    top: 48px;
+    left: 0;
+  } */
+  
+  .landing-page-design .text-wrapper-24 {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ff5400;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .amet-consectetur-3 {
+    width: 452px;
+    top: 46px;
+    position: absolute;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-22 {
+    position: absolute;
+    width: 150px;
+    height: 52px;
+    top: 189px;
+    left: 0;
+  }
+  
+  .landing-page-design .group-23 {
+    height: 52px;
+  }
+  
+  .landing-page-design .group-24 {
+    width: 152px;
+    height: 52px;
+  }
+  
+  .landing-page-design .overlap-group-2 {
+    width: 150px;
+    background-color: #ff5400;
+    position: relative;
+    height: 52px;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .text-wrapper-25 {
+    position: absolute;
+    top: 14px;
+    left: 25px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-25 {
+    position: absolute;
+    width: 386px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page-design .group-26 {
+    position: absolute;
+    width: 145px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page-design .text-wrapper-26 {
+    position: absolute;
+    top: 2px;
+    left: 32px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-27 {
+    position: absolute;
+    width: 98px;
+    height: 24px;
+    top: 0;
+    left: 167px;
+  }
+  
+  .landing-page-design .group-28 {
+    position: absolute;
+    width: 101px;
+    height: 24px;
+    top: 0;
+    left: 287px;
+  }
+  
+  .landing-page-design .group-29 {
+    position: absolute;
+    width: 1170px;
+    height: 500px;
+    top: 4168px;
+    left: 135px;
+    background-image: url(./img/rectangle-12-3.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .group-30 {
+    position: relative;
+    width: 579px;
+    height: 389px;
+    top: 56px;
+    left: 56px;
+    background-color: #ffffffcc;
+    border-radius: 16px;
+    border: 2px solid;
+    border-color: #ffffff;
+    backdrop-filter: blur(5px) brightness(100%);
+    -webkit-backdrop-filter: blur(5px) brightness(100%);
+  }
+  
+  .landing-page-design .group-31 {
+    position: absolute;
+    width: 1170px;
+    height: 500px;
+    top: 4692px;
+    left: 135px;
+    background-image: url(./img/rectangle-12-2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .group-32 {
+    position: absolute;
+    width: 210px;
+    height: 52px;
+    top: 5240px;
+    left: 615px;
+  }
+  
+  .landing-page-design .group-33 {
+    width: 212px;
+    height: 52px;
+  }
+  
+  .landing-page-design .overlap-group-3 {
+    width: 210px;
+    background-color: #ff5400;
+    position: relative;
+    height: 52px;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .text-wrapper-27 {
+    position: absolute;
+    top: 14px;
+    left: 21px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-34 {
+    position: absolute;
+    width: 540px;
+    height: 424px;
+    top: 5392px;
+    left: 135px;
+  }
+  
+  .landing-page-design .text-wrapper-28 {
+    position: absolute;
+    width: 448px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #131318;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 60px;
+  }
+  
+  .landing-page-design .amet-consectetur-4 {
+    width: 532px;
+    top: 144px;
+    position: absolute;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-35 {
+    width: 174px;
+    top: 372px;
+    left: 0;
+    position: absolute;
+    height: 52px;
+    background-color: #ff5400;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-36 {
+    position: relative;
+    width: 92px;
+    height: 25px;
+    top: 14px;
+    left: 42px;
+  }
+  
+  .landing-page-design .text-wrapper-29 {
+    top: 220px;
+    position: absolute;
+    width: 518px;
+    left: 0;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #131318;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .text-wrapper-30 {
+    top: 288px;
+    position: absolute;
+    width: 518px;
+    left: 0;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #131318;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-37 {
+    position: absolute;
+    width: 610px;
+    height: 424px;
+    top: 5392px;
+    left: 695px;
+    background-image: url(./img/Group\ 40089.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .overlap-9 {
+    position: relative;
+    height: 424px;
+    border-radius: 16px;
+  }
+  
+  .landing-page-design .rectangle-2 {
+    position: absolute;
+    width: 610px;
+    height: 424px;
+    top: 0;
+    left: 0;
+    border-radius: 16px;
+    transform: rotate(-180deg);
+    background: linear-gradient(180deg, rgb(19, 19, 24) 0%, rgba(19, 19, 24, 0) 100%);
+  }
+  
+  .landing-page-design .group-38 {
+    position: absolute;
+    width: 562px;
+    height: 4px;
+    top: 395px;
+    left: 24px;
+  }
+  
+  .landing-page-design .group-39 {
+    height: 4px;
+  }
+  
+  .landing-page-design .group-40 {
+    width: 562px;
+    height: 4px;
+    background-color: #ffffff4c;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-41 {
+    width: 87px;
+    height: 4px;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-42 {
+    position: absolute;
+    width: 66px;
+    height: 24px;
+    top: 355px;
+    left: 24px;
+  }
+  
+  .landing-page-design .group-43 {
+    height: 24px;
+  }
+  
+  .landing-page-design .group-44 {
+    position: relative;
+    width: 68px;
+    height: 24px;
+  }
+  
+  .landing-page-design .text-wrapper-31 {
+    position: absolute;
+    top: 4px;
+    left: 36px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--dark-07);
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-45 {
+    position: absolute;
+    width: 104px;
+    height: 24px;
+    top: 355px;
+    left: 482px;
+  }
+  
+  .landing-page-design .group-46 {
+    position: absolute;
+    width: 278px;
+    height: 72px;
+    top: 176px;
+    left: 167px;
+  }
+  
+  .landing-page-design .text-wrapper-32 {
+    position: absolute;
+    width: 276px;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .landing-page-design .overlap-10 {
+    position: absolute;
+    width: 672px;
+    height: 422px;
+    top: 5916px;
+    left: 633px;
+    background-image: url(./img/Rectangle\ 8.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .landing-page-design .group-47 {
+    position: relative;
+    width: 324px;
+    height: 120px;
+    top: 251px;
+    left: 338px;
+    background-color: #ff5400;
+    border-radius: 16px;
+    transform: rotate(-19.63deg);
+  }
+  
+  .landing-page-design .group-48 {
+    position: relative;
+    width: 248px;
+    height: 74px;
+    top: 23px;
+    left: 40px;
+  }
+  
+  .landing-page-design .text-wrapper-33 {
+    position: absolute;
+    top: 0;
+    left: 62px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .text-wrapper-34 {
+    position: absolute;
+    top: 34px;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-49 {
+    position: absolute;
+    width: 474px;
+    height: 422px;
+    top: 5916px;
+    left: 135px;
+    border-radius: 16px;
+    border: 1px solid;
+    border-color: #ff5400;
+  }
+  
+  .landing-page-design .group-50 {
+    position: absolute;
+    width: 354px;
+    height: 98px;
+    top: 39px;
+    left: 39px;
+  }
+  
+  .landing-page-design .get-your-daily-dose {
+    position: absolute;
+    width: 350px;
+    top: 46px;
+    left: 0;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .line {
+    width: 393px;
+    top: 160px;
+    left: 39px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .landing-page-design .group-51 {
+    position: absolute;
+    width: 393px;
+    height: 52px;
+    top: 185px;
+    left: 39px;
+  }
+  
+  .landing-page-design .group-52 {
+    width: 395px;
+    height: 52px;
+  }
+  
+  .landing-page-design .overlap-group-4 {
+    width: 393px;
+    background-color: #1313180d;
+    position: relative;
+    height: 52px;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .text-wrapper-35 {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #1313184c;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-53 {
+    position: absolute;
+    width: 393px;
+    height: 52px;
+    top: 253px;
+    left: 39px;
+  }
+  
+  .landing-page-design .group-54 {
+    width: 393px;
+    top: 329px;
+    left: 39px;
+    position: absolute;
+    height: 52px;
+    background-color: #ff5400;
+    border-radius: 8px;
+  }
+  
+  .landing-page-design .group-55 {
+    position: relative;
+    width: 98px;
+    height: 25px;
+    top: 14px;
+    left: 148px;
+  }
+  
+  .landing-page-design .overlap-11 {
+    position: absolute;
+    width: 1440px;
+    height: 502px;
+    top: 6438px;
+    left: 0;
+    background-color: #1313180d;
+  }
+  
+  .landing-page-design .overlap-12 {
+    position: absolute;
+    width: 1320px;
+    height: 24px;
+    top: 249px;
+    left: 60px;
+  }
+  
+  .landing-page-design .social {
+    position: absolute;
+    width: 174px;
+    height: 24px;
+    top: 0;
+    left: 573px;
+  }
+  
+  .landing-page-design .line-2 {
+    position: absolute;
+    width: 1320px;
+    height: 1px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page-design .text-wrapper-36 {
+    position: absolute;
+    width: 769px;
+    top: 164px;
+    left: 335px;
+    font-family: "Mulish-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a5a5d;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page-design .group-56 {
+    position: absolute;
+    width: 241px;
+    height: 40px;
+    top: 110px;
+    left: 600px;
+  }
+  
+  .landing-page-design .hero-travel-wrapper {
+    position: absolute;
+    width: 180px;
+    height: 40px;
+    top: 0;
+    left: 63px;
+  }
+  
+  .landing-page-design .hero-travel {
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    margin-bottom: 30px;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 32px;
+    letter-spacing: 0;
+    width: 400px;
+    line-height: normal;
+  }
+  
+  .landing-page-design .span {
+    color: #121218;
+  }
+  
+  .landing-page-design .text-wrapper-37 {
+    color: #ff5400;
+  }
+  
+  .landing-page-design .group-57 {
+    position: absolute;
+    width: 47px;
+    height: 40px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page-design .line-3 {
+    width: 872px;
+    top: 322px;
+    left: 284px;
+    position: absolute;
+    height: 1px;
+    object-fit: cover;
+  }
+  
+  .landing-page-design .text-wrapper-38 {
+    position: absolute;
+    top: 372px;
+    left: 624px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #131318;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .landing-page-design .group-58 {
+    position: absolute;
+    width: 274px;
+    height: 48px;
+    top: 50px;
+    left: 135px;
+  }
+  
+  .landing-page-design .group-59 {
+    position: absolute;
+    width: 203px;
+    height: 45px;
+    top: 2px;
+    left: 73px;
+  }
+  
+  .landing-page-design .hero-travel-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Mulish-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page-design .group-60 {
+    position: absolute;
+    width: 56px;
+    height: 48px;
+    top: 0;
+    left: 0;
+  }
+  
