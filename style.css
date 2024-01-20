@@ -12,24 +12,6 @@
     height: 6940px;
     position: relative;
   }
-  
-  /* .landing-page-design .group {
-    position: absolute;
-    width: 506px;
-    height: 43px;
-    top: 53px;
-    left: 807px;
-  } */
-  
-  /* .landing-page-design .navbar {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 44px;
-    padding: 10px 0px;
-    position: relative;
-  } */
-  
   .landing-page-design .text-wrapper {
     position: relative;
     width: fit-content;
