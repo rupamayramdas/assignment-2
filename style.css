@@ -77,7 +77,8 @@
     top: 0;
     left: 40px;
     font-family: "Mulish-ExtraBold", Helvetica;
-    font-weight: 800;
+    font-weight: 800
+    ;
     color: #ffffff;
     font-size: 64px;
     letter-spacing: 0;
@@ -690,30 +691,8 @@
     border-color: #e9444433;
   }
   
-  /* .landing-page-design .group-18 {
-    position: absolute;
-    width: 1170px;
-    height: 500px;
-    top: 3644px;
-    left: 135px;
-    background-image: url(./img/Group\ 40071\ \(2\).png);
-    background-size: cover;
-    background-position: 50% 50%;
-  } */
   
-  /* .landing-page-design .group-19 {
-    position: relative;
-    width: 579px;
-    height: 389px;
-    top: 56px;
-    left: 535px;
-    background-color: #ffffffcc;
-    border-radius: 16px;
-    border: 2px solid;
-    border-color: #ffffff;
-    backdrop-filter: blur(5px) brightness(100%);
-    -webkit-backdrop-filter: blur(5px) brightness(100%); */
-  }
+ 
   
   .landing-page-design .group-20 {
     position: relative;
@@ -723,13 +702,7 @@
     left: 48px;
   }
   
-  /* .landing-page-design .group-21 {
-    position: absolute;
-    width: 458px;
-    height: 241px;
-    top: 48px;
-    left: 0;
-  } */
+  
   
   .landing-page-design .text-wrapper-24 {
     position: absolute;
@@ -862,38 +835,16 @@
     backdrop-filter: blur(5px) brightness(100%);
     -webkit-backdrop-filter: blur(5px) brightness(100%);
   }
+
   
-  .landing-page-design .group-31 {
-    position: absolute;
-    width: 1170px;
-    height: 500px;
-    top: 4692px;
-    left: 135px;
-    background-image: url(./img/rectangle-12-2.png);
-    background-size: cover;
-    background-position: 50% 50%;
-  }
-  
-  .landing-page-design .group-32 {
-    position: absolute;
-    width: 210px;
-    height: 52px;
-    top: 5240px;
-    left: 615px;
-  }
+ 
   
   .landing-page-design .group-33 {
     width: 212px;
     height: 52px;
   }
   
-  .landing-page-design .overlap-group-3 {
-    width: 210px;
-    background-color: #ff5400;
-    position: relative;
-    height: 52px;
-    border-radius: 8px;
-  }
+
   
   .landing-page-design .text-wrapper-27 {
     position: absolute;
